@@ -1,0 +1,6 @@
+This is for misclassification impurity
+accuray is: 0.903722627737226
+preision is: 0.9324249059653258
+recall is: 0.8948637275638887
+ G-Near is: 0.9054997684140415
+F-Measure is: 0.9127255831787489

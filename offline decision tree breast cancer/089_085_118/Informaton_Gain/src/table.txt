@@ -1,0 +1,6 @@
+This is for information gain
+accuray is: 0.93948905109489
+preision is: 0.920983319017755
+recall is: 0.9666834933094544
+ G-Near is: 0.9397801304971957
+F-Measure is: 0.9421121171861647
